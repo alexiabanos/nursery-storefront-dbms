@@ -14,8 +14,8 @@ A web-based database management system built with JavaScript, Handlebars, CSS, H
 
 
 ## Features
-Created an ER diagram to model a complex data set and derived a relational schema.
-Developed the relational schema and created multiple indices to optimize SQL query performance.
+* Created an ER diagram to model a complex data set and derived a relational schema.
+* Developed the relational schema and created multiple indices to optimize SQL query performance.
 
 ## Use Cases / User Stories
 
