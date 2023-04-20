@@ -31,7 +31,7 @@ Developed the relational schema and created multiple indices to optimize SQL que
 To install and use the CactusClub Database Management System, follow these steps:
 
 1. Clone the repository
-2. Install the required packages using npm install
+2. Install the required packages using `npm install`
 3. Set up a MySQL database
-4. Configure the database connection in config/database.js
-5. Run the app using npm start
+4. Configure the database connection in `config/database.js`
+5. Run the app using `npm start`
