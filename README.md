@@ -5,12 +5,12 @@ A web-based database management system built with JavaScript, Handlebars, CSS, H
 
 ## Technologies
 
-JavaScript
-Handlebars
-CSS
-HTML
-Express
-MySQL
+* JavaScript
+* Handlebars
+* CSS
+* HTML
+* Express
+* MySQL
 
 
 ## Features
